@@ -1,4 +1,4 @@
-- 👋 Hi, I’m maurizio
+- 👋 Hi, I’m Maurizio
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html, css, javascript and going to learn the full stack for web development.
 - 💞️ I’m looking to collaborate on anything. Just started so looking to practice.
