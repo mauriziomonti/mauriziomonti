@@ -8,7 +8,7 @@
 
 1) Day 1
 
-The day started on a light note, intro into what the bootcamp is and how we'll be trained and coaached.
+The day started on a light note, intro into what the bootcamp is and how we'll be trained and coached.
 
 2) Day 2
 
@@ -17,5 +17,7 @@ The day started on a light note, intro into what the bootcamp is and how we'll b
 
 
 4) Day 4
-
+The day started well, feeling confident with yesterday's JavaScript.
+Had a mindset session. Eye opening as it describes exactly the journey, clarifying and outlining the steps ahead.
+JavaScript is still my nemesis!
 
