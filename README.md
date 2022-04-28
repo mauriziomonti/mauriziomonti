@@ -4,7 +4,18 @@
 - 💞️ I’m looking to collaborate on anything. Just started so looking to practice.
 - 📫 How to reach me: you can reach me on here.
 
-<!---
-mauriziomonti/mauriziomonti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***School Of Code journal***
+
+1) Day 1
+
+The day started on a light note, intro into what the bootcamp is and how we'll be trained and coaached.
+
+2) Day 2
+
+
+3) Day 3
+
+
+4) Day 4
+
+
