@@ -6,8 +6,7 @@
 
 ***School Of Code journal***
 
-1) Day 1
-
+1) Day 1 <br>
 The day started on a light note, intro into what the bootcamp is and how we'll be trained and coached.
 
 2) Day 2
